@@ -1,5 +1,5 @@
 // frontend/src/components/FloatingChat.tsx
-import React, { useState } from "react";
+import { useState } from "react";
 import VizRenderer from "./VizRenderer";
 import "./FloatingChat.css"; // Import the CSS file
 

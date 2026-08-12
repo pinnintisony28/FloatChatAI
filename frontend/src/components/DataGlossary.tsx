@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 import "./DataGlossary.css"; // Make sure to create this CSS file
 
 const glossary = [

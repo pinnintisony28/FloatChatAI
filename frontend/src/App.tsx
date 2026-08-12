@@ -1,5 +1,5 @@
 // frontend/src/App.tsx
-import React from 'react';
+// import React from 'react';
 import FloatingChat from './components/FloatingChat';
 import './App.css';
 import DataGlossary from './components/DataGlossary.tsx';

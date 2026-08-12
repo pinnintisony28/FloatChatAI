@@ -1,5 +1,5 @@
 // frontend/src/components/VizRenderer.tsx
-import React from "react";
+// import React from "react";
 import Plot from "react-plotly.js";
 
 export default function VizRenderer({ chart }: any) {
