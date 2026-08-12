@@ -20,7 +20,7 @@ export default function FloatingChat() {
 
     try {
       // Send current message + chat history to backend
-      const res = await fetch("http://localhost:4000/api/chat/message", {
+    const res = await fetch("https://floatchat-backend-cgqr.onrender.com/api/chat/message", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
